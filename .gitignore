@@ -7,3 +7,6 @@ node_modules/
 package-lock.json
 module/foundry.js
 foundry.js
+
+# User Data
+foundryConfig.json
